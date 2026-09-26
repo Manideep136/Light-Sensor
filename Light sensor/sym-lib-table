@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "2026-09-26_13-57-19") (type "KiCad") (uri "${KIPRJMOD}/ul_LM358/KiCADv6/2026-09-26_13-57-19.kicad_sym") (options "") (descr ""))
+	(lib (name "LM358P") (type "KiCad") (uri "${KIPRJMOD}/LM358P/LM358P.kicad_sym") (options "") (descr ""))
+)
