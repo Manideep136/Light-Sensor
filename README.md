@@ -11,9 +11,7 @@ which is then processed by the op-amp circuit.
 
 The schematic and PCB were designed using KiCad.
 
-## Reference
 
-This project was developed with reference to the following video:
 
 **Light Sensor Circuit Using LDR & Op-Amp | PCB Design in KiCad**
 
